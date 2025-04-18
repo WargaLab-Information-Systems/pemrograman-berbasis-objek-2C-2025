@@ -98,6 +98,7 @@ data_matkul_terpilih = [
     [0, 1, 4],  
 ]
 
+
 # Membuat objek mahasiswa dan menambahkan mata kuliah yang dipilih
 for i in range(len(data_mhs)):
     nama, nim, prodi = data_mhs[i]
